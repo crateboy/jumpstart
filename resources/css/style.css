@@ -65,9 +65,28 @@ h2 {
 /* Jumbotron */
 
 .jumbotron {
-    background-image: url('../images/jumbotron-bike.jpg');
     padding-top: 11.85rem;
     padding-bottom: 11.85rem;
+}
+
+.jumbotron-bike {
+    background-image: url('../images/jumbotron-bike.jpg');
+    background-size: cover;
+}
+
+.jumbotron-beer {
+    background-image: url('../images/jumbotron-beer.jpg');
+    background-size: cover;
+}
+
+.jumbotron-flowers {
+    background-image: url('../images/jumbotron-flowers.jpg');
+    background-size: cover;
+}
+
+.jumbotron-duffel {
+    background-image: url('../images/jumbotron-duffel.jpg');
+    background-size: cover;
 }
 
 .jumbotron h1 {
